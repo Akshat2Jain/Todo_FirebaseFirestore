@@ -62,6 +62,14 @@ li div{
     cursor:  pointer;
 }
 
+li:hover{ 
+    background: rgb(202, 195, 195); 
+} 
+
+li:nth-child(even):hover{ 
+    background: rgb(202, 195, 195); 
+}
+
 form input{
     float: left;
     width: 38%;

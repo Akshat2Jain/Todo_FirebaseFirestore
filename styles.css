@@ -111,7 +111,7 @@ button{
 }
 
 
-@media (max-width: 375px){
+@media (max-width: 550px){
     h1{
         font-size: 48px;
     }

@@ -109,3 +109,30 @@ button{
     letter-spacing: 1px;
     color: black;
 }
+
+
+@media (max-width: 550px){
+    h1{
+        font-size: 48px;
+    }
+    button {
+        width: 25%;
+        color: white;
+    }
+    form input {
+        width: 30%;
+    }
+}
+@media (max-width: 375px){
+    h1{
+        font-size: 40px;
+    }
+    button {
+        width: 95%;
+        color: white;
+    }
+    form input {
+        width: 45%;
+    }
+}
+

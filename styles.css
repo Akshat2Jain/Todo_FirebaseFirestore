@@ -109,3 +109,14 @@ button{
     letter-spacing: 1px;
     color: black;
 }
+
+
+@media (max-width: 375px){
+    button {
+        width: 25%;
+        color: white;
+    }
+    form input {
+        width: 30%;
+    }
+}

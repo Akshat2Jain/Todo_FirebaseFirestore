@@ -112,6 +112,9 @@ button{
 
 
 @media (max-width: 375px){
+    h1{
+        font-size: 48px;
+    }
     button {
         width: 25%;
         color: white;

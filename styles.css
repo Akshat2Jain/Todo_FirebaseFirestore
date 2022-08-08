@@ -137,7 +137,7 @@ button{
     }
 }
 
-@media(max-width: 35px){
+@media(max-width: 350px){
     .form input{
         width: 90%;
         border-top-right-radius: 2rem;

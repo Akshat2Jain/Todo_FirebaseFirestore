@@ -130,9 +130,21 @@ button{
     button {
         width: 95%;
         color: white;
+        margn-top: 1vh;
     }
     form input {
         width: 45%;
     }
 }
 
+@media(max-width: 35px){
+    .form input{
+        width: 90%;
+        border-top-right-radius: 2rem;
+        border-bottom-right-radius: 2rem;
+        margin-bottom: 1vh;
+    }
+    .content {
+        padding: 20px 10px;
+    }
+}
